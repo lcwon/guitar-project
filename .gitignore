@@ -1,4 +1,7 @@
-chords
+venv
+.idea
 example_wav_to_midi
+chords
 guitar_learner.h5
-midi_to_score.ipynb
+music
+Desktop/local/guitar_learner.h5
